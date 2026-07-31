@@ -1,0 +1,10 @@
+---
+Language: Cpp
+BasedOnStyle: WebKit
+BreakBeforeBraces: Attach
+IndentPPDirectives: BeforeHash
+AllowShortLambdasOnASingleLine: Empty
+LambdaBodyIndentation: Signature
+BinPackArguments: true
+ColumnLimit: 0
+IndentCaseLabels: true
